@@ -1,909 +1,1201 @@
-In 2009, there was a significant decrease in illegal migration at the EU
-external borders compared to 2008. This decreasing trend was the result of
-two factors: firstly, employment opportunities, which are the main pull factor
-for illegal migration to the EU, were reduced by the global economic
-downturn, and secondly, there was a strong deterrent effect of more effective
-border controls between Western Africa and the Canary Islands, and
-between Libya and the Island of Lampedusa.
+ 
+ 
+ 
+  
+European Agency for the Management of Operational Cooperation at the External 
+Borders of the Member States of the European Union 
+Extract from the 
+Annual Risk Analysis 
+2010 
+ 
+Risk Analysis Unit 
+Reference nr: R023 
+Copy nr: 
+Warsaw, March 2010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+European Agency for the Management of Operational Cooperation at the External 
+Borders of the Member States of the European Union (FRONTEX) 
+Rondo 1 
+00-124 Warsaw 
+Poland 
+10310
+  
+ 
+ 
+3 
+Executive Summary 
+In 2009, there was a significant decrease in illegal migration at the EU 
+external borders compared to 2008. This decreasing trend was the result of 
+two factors: firstly, employment opportunities, which are the main pull factor 
+for illegal migration to the EU, were reduced by the global economic 
+downturn, and secondly, there was a strong deterrent effect of more effective 
+border controls between Western Africa and the Canary Islands, and 
+between Libya and the Island of Lampedusa.  
+Most illegal migrants to the EU are from Middle Eastern and African 
+countries. Greece now accounts for 75% of all detections of illegal border 
+crossings in the EU. Illegal migrants who enter Greece illegally are 
+increasingly reported transiting to other Member States via the Western 
+Balkans or air routes using forged documents obtained in Greece.  Following 
+decreased departures from Libya and Western Africa, Turkey has now 
+become the most important transit country for illegal migration to the EU.  
+Reduced employment opportunities for illegal migrants, combined with 
+strengthened controls at the borders have resulted in a higher risk of 
+unfounded international protection applications being used to enter the EU, 
+which inevitably inhibits the rapid provision of protection for the third country 
+nationals with legitimate claims. 
+Forged documents, particularly EU passports and ID cards, are frequently 
+used by illegal migrants to enter to the EU. Forged documents are mostly 
+used in association with other criminal activities or types of frauds, such as 
+the abuse of social benefits. There is growing abuse of documentation by 
+impostors. Unconfirmed identities undermine border controls and are a 
+potential threat to the internal security of the EU, particularly if migrants are 
+able to conceal a criminal or terrorist past. 
+There is an increasing risk of the use of regular, legal entry channels to enter 
+the EU, with intent to overstay. Overstaying is probably the most common 
+technique for illegal migration to the EU, mostly through the air borders.  
+There are concerns among the general public and policy makers about 
+trafficking in human beings (THB) which is recognised as a form of modern 
+slavery.  
+Along both the Eastern land borders and the Western Balkan land borders, 
+there are reports that border control authorities are confronted with cross 
+ 
+ 
+ 
+4 
+border crime issues more frequently than illegal migration issues. On entry to 
+the EU, the most common cross border crimes are the smuggling of excise 
+goods, drugs or weapons, while on exit crimes are usually related to stolen 
+assets  
+  
+ 
+ 
+5 
+Table of Contents 
+Executive Summary                                                       3 
+1. Introduction                                                                 7 
+2. Methodology                                                               8 
+3. Situation at the External Borders                                12 
+3.1.  Detections of illegal border crossings        12   
+3.2. Facilitators             24 
+3.3. Refusals of entry                                         24 
+3.4. Applications for international protection        24 
+3.5. Illegal stay             28 
+3.6     Detections of forged goods               30                       
+3.7 Trafficking in human beings          31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+DISCLAIMERS 
+ 
+This is a Frontex staff working document. 
+ 
+This publication or its contents do not imply the expression of any opinion whatsoever on the part of 
+Frontex concerning the legal status of any country, territory or city or its authorities, or concerning the 
+delimitation of its frontiers or boundaries. 
+ 
+ACKNOWLEDGMENTS 
+ 
+Frontex Annual Risk Analysis 2010 has been prepared by Frontex Risk Analysis Unit. The core 
+editing team consisted of the Analysis and Planning Sector. During the course of developing this 
+assessment, many colleagues at Frontex and outside contributed to this assessment and their 
+assistance is here acknowledged with gratitude.  
+ 
+10710
+  
+ 
+ 
+7 
+1. Introduction 
+This document constitutes an extract from the Annual Risk Analysis report 
+for 2010. Three parts of the original report: the environmental scan, the 
+outlook for 2011 and the recommendations for operational response have 
+been removed. Furthermore, operationally sensitive details have been taken 
+out.   
+Frontex Annual Risk Analysis (ARA) 2010 has been developed to plan the 
+coordination of operational activities at the external borders of the EU in 2011. 
+The ARA combines an assessment of threats and vulnerabilities at the EU 
+external borders, with an estimation of their impacts and consequences to enable 
+the Agency to effectively balance and prioritise the allocation of resources against 
+identified risks. 
+Frontex operational activities aim to strengthen border security by ensuring the 
+coordination of Member States’ actions in the implementation of Community 
+measures relating to the management of the external borders. The coordination 
+of operational activities also contributes to better allocation of Member States’ 
+resources and protection in the area of freedom, security and justice. 
+The ARA 2010 concentrates on the current scope of Frontex operational 
+activities, which is focused on illegal migration at the external borders of the EU 
+and the Schengen Associated Countries.  As recommended by the concept of 
+Integrated Border Management, border management should also cover security 
+threats present at the external borders. Hence, a full chapter is devoted to the 
+phenomenon of trafficking in human beings (THB) with which Frontex was tasked, 
+according to the EU Action Plan (2005/C 311/01) on best practices, standards 
+and procedures for combating and preventing THB. 
+Frontex Risk Analysis Unit would like to thank all FRAN members and in 
+particular the staff in Member States for their efforts in providing data and 
+information, as well as Europol which contributed to the ARA 2010, and 
+colleagues at Frontex involved in the preparation of the report.   
+ 
+ 
+ 
+ 
+ 
+8 
+2. Methodology 
+Data collection plan 
+The backbone of the ARA 2010 is the Member States’ monthly statistics provided 
+within the framework of the Frontex Risk Analysis Network (FRAN). This regular 
+data collection exercise was launched in September 2007 and refined in 2008. 
+Thanks to the FRAN members’ efforts, a much larger statistical coverage was 
+achieved in 2009 focussed on six key indicators on illegal migration: 1) detections 
+of illegal border crossing, 2) refusals of entry, 3) detections of illegal stay, 4) 
+asylum applications, 5) detections of facilitators, and 6) detections of forged 
+documents.  
+Member States were not addressed with specific questions for this assessment. 
+Rather, Member States’ bi-monthly analytical reports and incidents reports 
+routinely collected through the FRAN, and Member States contributions to several 
+Tailored Risk Analyses conducted in 2009 have all been important sources of 
+information, especially in the analysis of routes and modi operandi. A substantial 
+amount of information was provided through the analysis of the materials 
+collected during Frontex coordinated joint operations.  
+The chapter on trafficking in human beings (THB) was based on Member States 
+statistics for 2008, collected for the Frontex THB project. 
+Open sources of information were also effectively exploited, especially in 
+identifying the main push and pull factors for illegal migration to the EU.  These 
+sources included but were not limited to reports issued by governmental 
+agencies, international or non-governmental organisations, as well as official EU 
+reports, such as the Commission’s reports on third countries, and main stream 
+news agencies, 
+In addition, Frontex, together with experts from Member States’ analytical units, 
+organised an annual analytical review to consolidate the risk analyses presented 
+in the FRAN Quarterlies for 2009, as well as to gather knowledge on likely risks of 
+illegal migration expected in 2010 and 2011 at the EU external borders. 
+Data were collected by Frontex from the national border control authorities 
+categorised by border type (land, air and sea) and from land borders categorised 
+by the different border sections with neighbouring third countries.  
+10910
+  
+ 
+ 
+9 
+The data collected within FRAN is compiled and analysed on a quarterly basis. 
+Priority is given to the use of the data for management purposes and to its rapid 
+sharing among Member States’ border control authorities. Member States’ data 
+that are processed by Frontex are not treated as official statistics, and thus may 
+occasionally vary from data published officially by national authorities.  
+During 2009, some FRAN Members made backdated updates to their 2008 
+statistics. These updates have been accounted for in this document, and thus the 
+data presented here sometimes differ from the data presented in the 2009 Annual 
+Risk Assessment. Also of note, despite the entry of Switzerland into the 
+Schengen area, data on its borders with Member States (Germany, France, Italy, 
+Austria) have been removed from the 2008 data to enable direct comparison with 
+the situation in 2009.  
+EUROPOL contributed to the ARA 2010, by providing information on facilitated 
+illegal migration and on trafficking in human beings. 
+Quality of the available data   
+Consistent with other law enforcement indicators, variation in administrative data 
+related to border control depends on several factors. In this case, the number of 
+detections of illegal border crossing and refusals of entry are both functions of the 
+amount of effort spent detecting migrants and the flow of illegal migrants to the 
+EU. For example, increased detections of illegal border crossing might be due to 
+an actual increased flow of illegal migrants, or it may actually be an artefact of 
+more resources made available to detect migrants. In exceptional cases, more 
+available resources may produce an increase in reported detections while 
+effectively masking an actual decrease in the flow of migrants, resulting from a 
+strong deterrent effect.  
+Conservative estimates of the number of illegal migrants within the EU vary 
+between three and six million, according to the latest results of Clandestino, an 
+EU sponsored project implemented by the ICMPD.  However, other estimates 
+indicate eight million illegal migrants, of which 80% are inside the Schengen area, 
+half of which entered legally. However, there is currently no estimate of the 
+annual flow of illegal migrants crossing the border illegally. 
+Information on national level resources for border control authorities and their 
+allocation is currently only partially known. These data are provided by the 
+Member States themselves either within the Schengen evaluation mechanism or 
+to the External Borders Fund. Without systematic and reliable information on 
+ 
+ 
+ 
+10 
+resources allocated to border control and on estimates of illegal migration flow, it 
+is not possible to assess the performance and impact of the border controls put in 
+place, at the same time, analyses of the situation at the EU external borders are 
+limited to descriptive statistics of the administrative data provided by Member 
+States.  
+As highlighted in the Schengen Catalogue, variation in regular passenger flow is 
+an important factor to be taken into account in the allocation of border control 
+resources. However, regular flows of passengers across the EU external borders 
+are currently not recorded systematically. Data on the quantity of issued EU visas 
+and their places of issue would improve the profile of third country passenger 
+flows. However this information, collected within the Council Visa Working Party, 
+is not yet available for risk analysis, and thus was not considered for this 
+document. Similarly, data on readmissions are collected by CIREFI1 but results 
+for 2009 were not yet available at the time of writing this report, and thus could 
+not be analysed in relation to detected flows of illegal border crossing.  
+ 
+ 
+ 
+ 
+ 
+1 Centre for Information, Discussion and Exchange on the Crossing of Frontiers and Immigration 
+  
+ 
+ 
+11 
+Table 1: 2009 indicator factsheet 
+Source: FRAN data as of 15 February 2010 
+:  data not available 
+n.a .not applicable 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicators 
+Total in 
+2008 
+Total in 
+2009 
+Per cent change 
+compared to 2008 
+Detections of illegal border crossing at the 
+green and blue external borders 
+159,100 106,200 - 33% 
+Detections of clandestine entry at BCPs : 1,600 n.a. 
+Refusals of entry 121,300 113,000 - 7% 
+Detections of illegal stay 441,200 352,800 - 21% 
+(excluding Norway) 
+Applications for international protection 223,200 219,800 - 2% 
+Detections of forged documents on  entering 
+the EU 
+: 8.200  
+Detections of facilitators 9,900 9,200 - 7 % 
+ 
+ 
+ 
+12 
+3.  Situation at the External Borders 
+In 2009 there were decreases, compared to the situation in 2008, in most 
+indicators used to monitor the situation of illegal migration at the EU external 
+borders.  
+3.1 Detections of illegal border crossing 
+In 2009, the Member States and Schengen Associated Countries reported a 
+total of 106,200 detections of illegal border crossings at the sea and land 
+borders of the EU. This represented a 33% decrease compared to 2008. The 
+decrease is comprised of both a strong decrease reported from the sea 
+borders (-23%), and land borders (-43%). 
+The bilateral collaboration agreements with third countries of departure on the 
+Central Mediterranean route (Italy with Libya) and the Western African route 
+(which Spain signed with Senegal and Mauritania) had an impact on reducing 
+departures of illegal migrants from Africa. The agreements were made at a 
+time when the economic crisis decreased the labour demand in the EU, thus 
+simultaneously reducing the pull factor. The synchronisation of these events 
+probably explains why no displacement has so far been noticed from the 
+Central Mediterranean and Western African routes to other illegal migration 
+routes in the statistics for detections. However, intelligence suggests that the 
+risk of displacement remains high, either with the emergence of new routes or 
+the exploitation of existing ones by nationalities which used to be detected 
+along the Central Mediterranean or the Western African routes. 
+As a corollary to the sharp decreases registered in Italy and Spain, the 
+number of detections of illegal border crossing in Greece rose from 50% of the 
+total EU detections to 75% of the total. In 2009, the Greek land border 
+sections with Albania and FYROM represented the largest share of the EU 
+total, with 36,600 detections (34% of the EU total), followed by 22,000 
+detections in the Aegean Sea with (21% of the EU total).  
+There were 24,400 detections outside Greece, mainly along the Central 
+Mediterranean route (11,000 detections) and the Western Mediterranean 
+route (6,600 detections). Compared to 2008, the small increase in the 
+Western Balkans in 2009 was due to the larger detections of Serbian 
+nationals of Kosovo origins and Afghan nationals along the land border 
+between Hungary and Serbia.  
+ 
+  
+ 
+13 
+Chart 1: Quarterly trend in detections of illegal border crossing routes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Claimed nationalities 
+In terms of nationality, Albanian nationals, with 40,500 detections representing 
+38% of the EU total, continue to represent the largest share of detections. The 
+detections of Albanian nationals are followed at a distance by Afghan 
+nationals (14,500 detections, 14% of the total) and Somali nationals (9,100 
+detections or 9% of the total).  
+There was a general decreasing trend for most nationalities (Albania -8%, 
+Afghanistan -24%, Somalia -21%). Detections of Iraqi nationals strongly 
+decreased from 8,800 in 2008 to 4,100 in 2009 (-52%), a trend that is also 
+shown for detections of illegal stay   (-38%) and applications for international 
+protection (-43%). 
+The most noticeable exception to the decreasing trend is for Palestinian 
+nationals whose detections increased by 77% from 4,300 in 2008 to 7,600 in 
+2009.  However, false declarations of nationality, in this case by nationals of 
+other Arab-speaking countries, may have inflated the numbers of Palestinian 
+nationals.  
+ 
+Source: FRAN data received as of 15 February 2010 
+ 
+Eastern Mediteranean Route
+Circular migration from 
+Albania to Greece
+Western Mediteranean 
+Route
+Central Mediteranean Route
+Western Balkan Route
+Eastern land borders
+Western African Route
+08 Q2 - 2008 Q3 - 2008 Q4 - 2008 Q1 - 2009 Q2 - 2009 Q3 - 2009 Q4 - 2009
+-
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000
+Q1 - 20
+ 
+ 
+ 
+14 
+Map 1: Trends in detection of illegal border crossing for main countries of origin in 2009 
+ 
+  
+ 
+15 
+3.1.1   Eastern Mediterranean route 
+The Eastern Mediterranean route is the route taken by illegal migrants transiting 
+through Turkey and entering the EU through eastern Greece, southern Bulgaria 
+or Cyprus. Turkey, due to its geographical position near the EU, is the main 
+nexus point on this route. From Istanbul, illegal migrants may reach the Greek 
+islands in the Aegean Sea, or cross the land borders to Greece or to Bulgaria.  
+In 2009, illegal border crossing on the Eastern Mediterranean route totalled 
+41,500, or 39% of all EU detections. Most of the detections were reported from 
+the Aegean Sea, followed by detections along the land border between Turkey 
+and Greece. The number of detections reported by Bulgaria and Cyprus were 
+considerably lower. 
+Three nationalities constitute 80% of the detections along the Eastern 
+Mediterranean route: Afghan, Palestinian and Somali nationals. Over the past two 
+years, these nationalities have consistently been the most often detected.   
+A seasonal effect is more apparent in the number of the detections of Asian 
+nationals than for numbers of African nationals. One possible explanation is that 
+Asian nationals reach Turkey overland and are thus more sensitive to inclement 
+winter weather conditions, while African nationals arrive in a steady flow to Turkey 
+by air, taking advantage of the easily available Turkish visas and cheap flights 
+from Nigeria.  
+False declarations of nationality is assumed to be widespread among East 
+African nationals arriving in Greece, in particular among claimed Somalis who 
+might actually be from Western Africa. This would explain why the number of 
+detections of Somali nationals does not vary with the security situation in 
+Somalia.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+Chart 2: Trends in the nationalities detected for illegal border 
+crossings on the Eastern Mediterranean route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: FRAN data received as of 15 February 2010 
+The number of detections of nationals from Afghanistan and Iraq decreased by 
+50% from 26,700 in 2008 to 13,300 in 2009. One possible explanation for this 
+decrease is the reduced employment opportunities in the UK (the main 
+destination country), combined with stricter law enforcement measures in Greece 
+and France, the main transit countries. Another possible explanation is a 
+deterrent effect of return operations from the UK to Afghanistan.  
+The 79% increase in detections of Palestinian nationals, from 4,200 in 2008 to 
+7,500 in 2009 is more difficult to interpret. Palestinian nationals are the first or 
+second most commonly detected nationality in Greece, Bulgaria and Cyprus. The 
+situation in the West Bank and the Gaza strip continues to be unstable through 
+2008 and 2009, but at the EU level, 59% fewer Palestinians applied for asylum in 
+2008 (2,200) than in 2009 (900). Based on information gathered during Frontex 
+joint operations in 2009, there would be a large number of false declarations of 
+nationality among claimed Palestinian nationals, in particular by nationals from 
+Maghreb (Algeria, Morocco) and Middle East countries (Iraq). The reason for 
+these false declarations is currently unclear. Perhaps the most likely reason is 
+that they wish to avoid return or at least to reduce the length of their stay in the 
+detention centres, but these declarations are not linked with applications for 
+international protection.   
+Pervasive effects of illegal border crossing from the Eastern Mediterranean route 
+can be found in France (Northern region), Nordic countries, Germany, Belgium 
+and The Netherlands which have reported large number of migrants that illegally 
+entered the EU in Greece. At the end of 2009, after the Greek authorities stepped 
+ 
+Southern Asia 
+(Afghanistan)
+Western Asia 
+(Iraq, Palestine)
+Eastern Africa 
+(Somalia) 
+Others 
+Jan-
+08
+Feb-
+08 Mar-08 
+-
+500 
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+Apr-
+08 May- 08 Jun-08 Jul-08 Aug-08 Sep- 08 Oct-08 Nov-08 Dec-08 Jan-09 Feb-09 Mar-09 Apr-09 May-09 Jun-09 Jul-09 Aug-09 Sep-09 Oct-09 Nov- 09 Dec- 09
+2008 2009 
+  
+ 
+17 
+up measures on exit at their airports, the number of third country nationals 
+detected with forged or falsified documents on flights to other Member States 
+averaged about 350 cases per week.  
+3.1.2   Circular illegal migration from Albania to Greece 
+In 2008, detections of illegal border crossing between Albania and Greece and 
+between FYROM and Albania, totalled 40,800 and represented almost 40% of the 
+EU total. More than 90% of the illegal migrants were Albanian nationals.  
+In Greece, most Albanian nationals detected crossing the border illegally or 
+staying illegally are quickly returned under a bilateral police agreement. Persons 
+returned to Albania are finger printed by the Albanian police, a procedure that 
+enables authorities to distinguish between cases and persons. Between 2008 and 
+2009, there was a decrease of 10% in the number of persons actually readmitted 
+by Greece. This decrease is attributed to the decrease in employment 
+opportunities in the agricultural and tourist sectors in Greece where Albanian 
+nationals are most often illegally employed as seasonal workers. 
+Despite strengthened measures, border controls appear to have little effect on the 
+circular illegal migration from Albanian nationals to Greece. The lack of effect of 
+border controls might be attributed to the ease with which Albanian migrants 
+repeat their attempts after detections and the impunity of their employers in 
+Greece. These are two strong pull factors that cannot be addressed only by 
+measures at the borders.  
+ 
+Only a small proportion of the Albanian illegal migrants intend to reach Member 
+States other than Greece. Their impact is thus mostly limited to seasonal work in 
+Greece.  
+ 
+ 
+ 
+ 
+ 
+18 
+3.1.3   Central Mediterranean route 
+The Central Mediterranean route refers to illegal 
+migration from northern Africa to Italy and to Malta. For 
+the past two years, Libya has been a nexus point where 
+migrants from the Horn of Africa and Western African 
+routes and a small proportion of Asian nationals met 
+before embarking. 
+Since the signing of a bilateral agreement with Libya,  
+joint patrols by Libya and Italy have had a clear and 
+measurable deterrent effect, with 3,200 detections in the 
+seven months after the joint patrols (June to December), 
+compared to 7,200 detections in the five months before 
+the joint patrols (January to May), and almost 40,000 detections in the whole of 
+2008. 
+Chart 3: Trend in the nationalities detected for illegal border crossing on the Central 
+Mediterranean route 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: FRAN data as pf 15 February 2010 
+ 
+3.1.4   Western African route 
+The Western African route is primarily through Western African countries to Spain 
+via the Canary Islands. The main embarkation points are in Senegal and 
+Mauritania and the main countries of origin are Mali, Mauritania, Guinea Conakry 
+and Senegal. Other African nationals have also been reported, and occasionally 
+migrants from Asia.  
+Picture 1: An boat overloaded with illegal migrants in the 
+southern Mediterranean  
+ 
+Northern Africa
+Eastern Africa
+Western Africa
+others
+-
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+Jan-
+08
+Feb-
+08 Mar-08 Apr-08 May-08 Jun-08 Jul-08 Aug- 08 Sep- 08 Oct-08 Nov-08 Dec-08 Jan-09 Feb-09 Mar-09 Apr-09 May-09 Jun-09 Jul-09 Aug-09 Sep-09 Oct- 09 Nov-09 Dec- 09
+2008 2009 
+Ph
+ot
+o:
+  F
+ro
+nt
+ex
+ 
+Implementation of the 
+agreement between Italy 
+and Lybia 
+  
+ 
+ 
+ 
+19 
+This route is now less favoured since the Spanish collaboration agreements with 
+Senegal and Mauritania. The Frontex coordinated Joint Operation Hera plays a 
+major role in maintaining effective surveillance in the area. 
+3.1.5   Western African route 
+The Western Mediterranean route includes the sea route from Northern Africa to 
+the Iberian Peninsula, and the land route through Ceuta and Melilla. It is mostly 
+used by Northern African nationals (Algerian and Moroccan) travelling to Spain, 
+France and Italy.  
+Maritime detections between Northern Africa and Spain are rising, with increasing 
+detections of Algerian and to a lesser extent Sub Saharan nationals. 
+Moroccan nationals are also regularly detected on this route. The lack of 
+employment opportunities for the growing population of young people in Morocco 
+continues to increase the incentives of migrating to the EU. The Spanish 
+authorities recently reported an increasing number of attempts by Moroccan 
+minors to get on the ferry link between Tanger and Spain.  These cases do not 
+seem connected with criminal networks; rather individual attempts are driven by 
+poor employment prospects in Morocco.  
+3.1.6   Western Balkan route 
+The Western Balkan route describes illegal migration to the EU from the Western 
+Balkan countries of Croatia, Serbia, Kosovo, Bosnia and Herzegovina, Albania, 
+Montenegro, and the former Yugoslav Republic of Macedonia.   It also includes 
+the transit of illegal migrants through the Western Balkans, as an outlet from the 
+Eastern Mediterranean route. Illegal migration of Albanian nationals to Greece is 
+treated separately under the section ‘3.1.2 circular illegal migration from Albania 
+to Greece’. 
+Along the Western Balkan route, the most commonly detected nationality for 
+illegal border crossing was from Kosovo, particularly along the land border 
+between Serbia and Hungary. Most of the detections were made along the green 
+borders, and few were detected using forged documents or during clandestine 
+entry through the Border Control Point (BCP), e.g. hiding in vehicles. Serbians of 
+Kosovo origin were more commonly refused at the land border with Hungary and 
+Slovenia than at the air borders of the EU, confirming that their preferred route to 
+the EU is the land route. Based on statistics for illegal stay, their preferred 
+destinations are Germany, Sweden, Belgium and Austria, together representing 
+65% of the detections of Serbian nationals.  
+Ph
+ot
+o:
+  i
+nt
+er
+ne
+t 
+ 
+In 2009, a large number of Serbians of Kosovo origin claimed asylum in Hungary 
+after being detected crossing the border illegally. Most of them soon absconded 
+from the asylum centre to continue their travel through the EU.   
+In 2009, there was increasing evidence that the Western Balkan was used as 
+transit region by Afghan nationals who had entered Greece illegally from Turkey 
+and then travelled in the EU, mostly towards the UK. This increase in the Western 
+Balkan route is consistent with the 2008 increase of Afghan nationals detected 
+illegally crossing the border from Turkey to Greece, combined with stricter alien 
+laws in Greece and controls on regular ferry links between Greece and Italy.  
+Most Afghan nationals were detected at the green border between Serbia and 
+Hungary. Their journey was mostly reported to be comprised of three parts: the 
+first part was from Greece to the green border between Serbia and Hungary, the 
+second part was the crossing of the green border without the presence of 
+facilitators, and finally the third part was meeting with other facilitators for the last 
+leg of the journey within the EU. 
+Several recent investigations conducted by Member States or by Western Balkan 
+countries indicated that illegal migration in the Western Balkans is not limited to 
+illegal crossing of the green border, but also includes clandestine entry by 
+concealment in trucks. Following the strengthening of surveillance along green 
+borders, facilitators are likely to switch to the concealment of illegal migrants, 
+hence putting lives at risk in confined vehicle compartments 
+Illegal migration via the Western Balkan route should be considered in the context 
+of a recent visa liberalisation policy granted to citizens of EU candidate countries 
+(Serbia, Croatia, Montenegro and the Former Yugoslav Republic of Macedonia). 
+As a result of this policy, a large proportion of the population can now travel freely 
+to the EU, thus now restricting the risk of illegal border crossing only to that 
+proportion that don’t have access to the new biometric passports.  However 
+nationals from Bosnia and Herzegovina, Albania and people living in Kosovo 
+(who do not have free access to the EU) might start to use forged Western 
+Balkan travel documents.  
+The Western Balkans is also used for smuggling high taxed goods and drugs to 
+the EU. For many years Western Balkan countries have been used as one of the 
+main routes for heroin trafficking from Afghanistan, via Turkey and onward to the 
+EU. In addition,  long periods of war in the Western Balkan region has resulted in 
+large stocks of weapons and ordnance which are now readily available for 
+criminals.  Hence, the smuggling of small arms, ammunition and explosives is 
+also a frequent crime in the region.  
+ 
+ 
+20 
+  
+ 
+ 
+ 
+21 
+Another important threat for internal security within the EU is the ease with which 
+criminals are able to smuggle stolen vehicles from the EU to the Western 
+Balkans. According to information from Austrian experts deployed during the Joint 
+Operation Focal Point, BCPs on the border between Hungary and Serbia are 
+frequently used to smuggle stolen vehicles from European to Western Balkan 
+countries.  
+3.1.7   Eastern European land borders 
+This section summarises the detection of illegal migration along the EU eastern 
+land borders with the Russian Federation, Belarus, Ukraine and Moldova. The 
+number of detections of illegal border crossing along the Eastern land borders of 
+the EU was low in 2008 relative to the total number of detections, and was even 
+lower in 2009 with 1,335 detections, representing 1% of the EU total. The low 
+number of detections can partly be explained by the strong border controls in the 
+Russian Federation and Belarus. For example, in 2009 the Russian Federation 
+authorities reported the detection of more than 200 Afghan nationals attempting 
+to cross illegally to the EU along the border with Finland. In this case, most of the 
+Afghan nationals reside in Commonwealth Independent States (CIS) and do not 
+come directly from Afghanistan. The low number of detections along the border 
+with Belarus might be attributed to the fence set up by the Belarusian authorities 
+along their border with the EU.  
+Ukraine, and in particular the capital city Kiev, is the main nexus point for illegal 
+migration along the Eastern land border, with illegal migrants arriving via the 
+Russian Federation and then onward by air or overland routes to the EU. The 
+number of passengers at the border between Poland and Ukraine has increased 
+after Poland’s entry into the Schengen area; this border section now registers the 
+largest flow of third country nationals requiring visas, followed by the German air 
+borders1. Consequently there was an increase in refusals of entry of Ukrainian 
+nationals who now rank first among the most commonly refused nationalities at 
+the EU external borders.  
+Between June and September 2009, the border between Belarus and Poland 
+reported an exceptionally high number of Georgian nationals claiming asylum and 
+then quickly absconding from the asylum centres to reach other Member States 
+such as Germany, Austria and Belgium.  
+ 
+1 Based on Council entry exit exercise conducted in September 2009, excluding air passengers to the 
+UK for which data is not available 
+ 
+ 
+ 
+22 
+Along the Eastern land borders, several Member States reported being 
+confronted with cross border crimes more often than with illegal migration issues.  
+Similar observations have been expressed by border control authorities in 
+neighbouring third countries. In particular, the issue of smuggling of excise goods 
+has been reported has a high threat along the borders between the Russian 
+Federation and Poland, Lithuania and Latvia.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+3.1.8 Detections of clandestine entry at BCPs 
+In addition to the detections of illegal border crossing made along the 
+green border, Member States reported 1,600 detections of clandestine 
+entry through BCPs, mostly illegal migrants concealed in confined 
+compartments of vehicles. This number is probably slightly 
+conservative as some Member States such as Greece do not 
+distinguish between detections at the green border and at BCPs.   
+3.1.9  False declaration of nationality 
+According to intelligence and operational information the top three most 
+commonly false claimed countries of origin are Somalia, Palestinian 
+territories and Afghanistan. Migrants from that have cultural or linguistic 
+links with these false countries of origin (Maghreb, the Middle East, 
+Iran, Pakistan, Central Asia and East Africa) are most likely to engage 
+in the practice of nationality swapping.  
+ 
+ 
+Ph
+ot
+o:
+  F
+ro
+nt
+ex
+ 
+ 
+3.2    Facilitators 
+In 2009, there were 9,200 detections of facilitators, compared with 9,900 
+detections in 2008. The top three Member States reporting detections of 
+facilitators were the same three Member States that reported the highest number 
+of detections for illegal border crossing, namely Italy, Spain and Greece.  
+The vast majority of facilitators were EU nationals. A total of 20 Member States 
+reported their own nationals among the top five nationalities for facilitators, of 
+which 13 Member States reported their own nationals as ranking first. This clearly 
+shows the segmentation of the illegal migration networks, whereby facilitators 
+from one country organise the operations in their own countries, and for the most 
+part do not accompany the illegal migrants across the borders.  
+3.3    Refusals of entry 
+Compared to 2008, refusals of entry in 2009 remained fairly stable, only showing 
+a small decrease of 7% to 113,000. Refusals of entry were split almost equally 
+between refusals at the air borders (49%) and at the land border (47%). Only few 
+refusals of entry were reported from the sea borders due to the low number of 
+regular passengers.  
+There were two notable trends: 1) a continued decrease in the number of refusals 
+of entry at the air borders due to widespread reductions in air traffic, and 2) a 
+sharp increase in the number of land border refusals of entry in August 2009, 
+resulting from large numbers of refusals of entry at the land borders between 
+Poland and Belarus, and Slovenia and Croatia.  The refusals in Poland were of 
+Georgian nationals who later claimed for international protection and then 
+absconded from the centres to stay illegally in the EU, and the refusals in 
+Slovenia were of Western Balkans circular migrant workers travelling to Italy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+  
+ 
+ 
+25 
+Chart 4: Trend in refusals of entry at the EU external borders by border types 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: FRAN data received as of 15 February 2010 
+Excluding the UK and Ireland which did not participate, the European Council’s 
+one week data collection exercise implemented at the beginning of September 
+2009 which focussed on the entry/exit system, showed that about 2 million third 
+country nationals (requiring and not requiring visas) and 5 million EU nationals 
+crossed the external EU border in a week. This extrapolates to an annual figure of 
+about 100 million entries for third country passengers and about 260 million 
+entries of EU nationals. Thus, refusals of entry of third country nationals 
+represented only 0.1% of the third country passenger flow.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Air
+Land
+Sea 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+Jan-
+08 
+Feb-
+08
+Mar-
+08
+Apr-
+08
+May-
+08
+Jun-
+08 
+Jul-
+08 
+Aug- 
+08 
+Sep-
+08
+Oct-
+08
+Nov-
+08
+Dec-
+08
+Jan-
+09
+Feb-
+09
+Mar-
+09
+Apr-
+09
+May-
+09
+Jun-
+09
+Jul-
+09
+Aug-
+09
+Sep-
+09
+Oct-
+09 
+Nov-
+09
+Dec-
+09 
+Georgian nationals refused  
+entry at the Polish-Belarus border  
+ 
+ 
+ 
+ 
+ 
+Map 2: Annual trend in refusals of entry at the air borders for main countries of origin 
+and Member States in 2009 
+26 
+ 
+  
+Most refusals of entry are on the grounds of either lacking valid visas or residence 
+permits (38%) or documentation justifying the purpose and conditions of stay 
+(31%). In 2009, there was a total of 29,700 refusals of entry on the grounds of 
+lacking appropriate documentation justifying the purpose of stay.  This directly 
+reduced the number of overstaying in the EU, which is probably the main path for 
+illegal migration to the EU.  
+ 
+In terms of nationalities, Ukrainian nationals were most commonly refused entry 
+at the border between Poland and Ukraine. The three Polish land border sections 
+constitute the busiest flow in the EU of third country passengers requiring visas 
+(about 120,000 weekly entries of third country passengers requiring visa). 
+ 
+Spain also reported refusals of entry in Ceuta and Melilla; a decrease of 61% 
+from 492,700 in 2008 to 193,100 in 2009, due to stricter controls on exit by 
+Moroccan border authorities, as a direct consequence of a bilateral agreement 
+with Spain.   
+ 
+ 27 
+ 
+3.4    Applications for international protection 
+The number of applications for international protection in 2009 totalled 219,800, a 
+figure comparable to 2008 (-2%). However, this figure excludes applications 
+made in inland France which may have been among the highest of Member 
+States.  The EU total for 2009 was about half that of the annual peak in 
+2000/2002 (420,000 asylum seekers,) and about a third of the Bosnian-
+Hercegovina  war peak in 1992.  
+The annual number of applications should be interpreted with respect to the 
+average rejection rate which was of 70% at the EU level when considering the 
+total of all types of international protections. The rejection rates vary widely 
+between Member States but the high EU average supports the fact that 
+application for international protection is one of the main paths for illegal migration 
+within the EU, with many undocumented asylum applicants deciding to stay 
+illegally in the EU once their application has been rejected.  
+Asylum flows are unpredictable as they depend on fluctuations in large scale geo-
+political situations. There is no guarantee that a Member State with currently low 
+numbers of asylum applications will not experience pressures in the short term. 
+Reduced employment opportunities for illegal migrants, combined with 
+strengthened controls at the borders have resulted in a higher risk of unfounded 
+international protection applications being used to enter the EU, which inevitably 
+inhibits the rapid provision of protection for those third country nationals with 
+legitimate claims. 
+ 
+ 
+Some signs of this can already been seen in 2009, with a massive influx of 
+Georgian nationals applying for asylum in Poland and then quickly absconding 
+from the asylum centre and soon detected staying illegally in Germany, Austria, 
+Belgium and other Member States. A similar situation occurred at the border 
+between Serbia and Hungary, with many passengers from Kosovo applying for 
+asylum and then quickly disappearing from the asylum centre.  
+The number of applications from Iraqi nationals decreased by 43% from 31,000 in 
+2008 to 17,000 in 2009. This decrease was detectable in almost every Member 
+State. In addition, compared to 2008, Iraqi nationals were detected 49% less 
+frequently crossing the EU external border illegally and were detected 42% less 
+frequently staying illegally.  Overall these figures indicate a general decline in 
+Iraqi illegal migration at the EU level. 
+ 
+ 28 
+  
+ 
+ 29 
+In contrast, the number of Afghan nationals increased by 82% from 13,600 
+applications in 2008 to 24,600 applications in 2009, an increase that is attributed 
+to the secondary movement of Afghan nationals from Greece to other EU 
+Member States. At the EU level, Afghan nationals are now the most common 
+nationality applying for international protection. 
+ 
+ 
+ 
+3.5    Illegal stay 
+FRAN members reported a total of 352,800 detections of persons staying illegally 
+in the EU in 2009, down 21% compared to 2008. The largest decreases were 
+reported by Spain and France  
+In Spain, there was a sharp drop recorded between January and February 2009, 
+which is interpreted as a change in law enforcement activity, whereas the general 
+decreasing trends recorded prior and subsequent to the drop are due to 
+decreasing detections of illegal migrants from Latin America.  
+The decrease in France is mostly due to lower detections of Iraqi and Eritrean 
+nationals, but also to lower detections of many other nationalities. This could be 
+explained for in part by the dismantlement of the camps of illegal migrants in 
+northern France that have dispersed migrants into other parts of the country and 
+in other Member States, and also by the end of the border controls with 
+Switzerland where many migrants staying illegally in France used to be detected 
+on exit. Thus, in this case the decreasing detections do not necessarily reflect a 
+actual decrease in the number of illegal migrants.  
+At the EU level, the most noticeable trend is the decrease in detections of Iraqi, 
+Eritrean, Moroccan and Indian nationals in most Member States. In contrast, 
+there was an increase in detections of Afghan nationals, most of them reported 
+arriving from Greece, as well as an increase in Vietnamese nationals.  
+ 
+The three main paths for illegal stay in the EU are 1) illegal border crossing, 2) 
+overstay the legal period of stay and 3) loss of status related to international 
+protection (either rejection of application or non-renewal of status). However, 
+there is an intelligence gap on the relative importance of these paths.  
+ 
+ 
+3.6    Detection of forged documents to enter the EU 
+A total of 8,200 detections of forged documents used to enter the EU were 
+detected in 2009. Most of the detections (72%) were reported at the air borders. 
+The most common nationality detected using forged documents was Nigerian, 
+whereas the most commonly reported country of origin of the forged documents 
+was France.  
+ 
+ 30 
+  
+The detections of forged documents is small in 
+comparison to the flow of passengers, which was 
+estimated at about 380 millions entries in 2009, 
+excluding the UK and Ireland. This low level of detection 
+might be due the presence of fewer forged documents in 
+response to increased security features on legitimate 
+travel documents.  However, it might also be due to 
+ineffective detection of forged documents.  
+ 
+ 
+Ph
+ot
+o:
+  F
+ro
+nt
+ex
+ 
+Picture 6: Following increased biometric security in  
+travel documents there is a growing risk of the  
+use of impostor techniques  
+There are increasing numbers of reports to suggest that the EU is becoming a 
+hub for illegal migration to Canada. The Netherlands have reported increased 
+detections of forged documents on passengers on transit to Canada. The 
+Canadian authorities themselves have reported that most of their detections of 
+illegal migrants using forged documents at the air borders are connected with 
+passengers transiting through the EU. 
+ 
+3.7    Trafficking in human beings 
+Almost half of the victims of trafficking identified in 2009 were EU nationals, and 
+of these most were nationals of the Member States that joined the EU after 2004, 
+detected in EU-15 Member States. Sexual exploitation was the main purpose of 
+trafficking in human beings, especially in the case of women and minors. A 
+significant proportion suspected traffickers of human beings were EU nationals 
+The role of Frontex in the field of combating trafficking in human beings (THB) 
+focuses on prevention. This is to be achieved by 1) increasing situational 
+awareness and reaction capability of Member State border control authorities, 2) 
+working closely with Europol, Interpol, Member State and Third Country law 
+enforcement authorities to ensure that intelligence and intelligence from THB 
+related investigations is fully taken into account when profiling potential victims 
+and their traffickers, and 3) planning Frontex coordinated joint operations. 
+ 
+ 31 
+ 
+3.7.1   About the victims 
+Of 30 Member States and Schengen Associated Countries, 22 provided statistics 
+on victims of trafficking for the year 2008, and a total of 4,371 victims of trafficking 
+were identified.  
+The major challenge related to the number of reported victims of trafficking 
+remains the lack of a consensus on the definition of victims of trafficking. 
+Differences in definitions may result in double counts of victims originating from 
+one Member State and being trafficked to another Member State. The numbers 
+reported are often based on residence permits given to victims, assisted victims 
+of trafficking, victims in reception centres or victims in cases under investigation. 
+The actual number of undetected victims is unknown, but likely to be much 
+higher. 
+Spain reported the highest number of victims of trafficking, followed closely by the 
+Netherlands. Across the Member States, around 90% of the identified victims are 
+female and almost 10% are minors. In other countries, such as the UK and 
+Romania, males and minors are more highly represented, for example Romania 
+reported more than 50% of the identified victims as minors. 
+It is important to emphasize that the Members States reporting the highest 
+numbers of victims of trafficking are not necessarily considered as the Member 
+States with the largest problems of THB. This is because the Member States with 
+the highest numbers of reported victims may simply have the best mechanisms 
+for identifying the victims. 
+The nationalities of the victims of trafficking are almost equally split between 
+nationalities of the Member States (48%) and third countries (52%). Victims of 
+Romanian nationality are by far the most exploited group within the Member 
+States, followed by the Nigerians and the Dutch.  
+In terms of this report, victims of domestic trafficking within the EU are defined as 
+“persons with a Member State nationality reported by their own or another 
+Member State as victims of trafficking.” The victims of domestic trafficking are 
+mostly reported by the EU-15 Member States. Germany, the Netherlands and 
+Belgium reported the highest numbers of domestic victims of trafficking, totalling 
+jointly 84% of all domestic victims across the Member States. These three 
+countries also reported 98% of the trafficking victims who were nationals of EU-15 
+Member States. Victims of EU-15 Member State nationalities are mainly reported 
+by the EU-15 Member States. Furthermore, domestic victims with EU-15 Member 
+State nationalities represent 36% of the total number of victims of domestic 
+trafficking within the EU.  
+ 
+ 32 
+  
+Minors that are victims of trafficking are mainly identified as victims of domestic 
+trafficking (81%), and were all nationals of Member States joining the EU after 
+2004. Of all the minors that were victims of domestic trafficking, 82% came from 
+Romania. Also the male victims of trafficking are mainly identified as victims of 
+domestic trafficking (66%), and were all nationals of Member States joining the 
+EU after 2004. Of all male domestic victims of trafficking, 54% were of Romanian 
+nationality. 
+As many as 84% of identified victims of trafficking are meant for prostitution 
+purposes or other forms of sexual exploitation. Most of the female victims of 
+trafficking are reported for exploitation in this category (92%), as well as minors 
+(84%). In 2008, forced labour represented 14% of all cases of trafficking reported 
+by the Member States. Male victims of trafficking are the largest group in this 
+category (68%), with 94% of all male victims being exploited for labour 
+exploitation. 
+Some Member States also provide assistance to victims upon return to their 
+home country.  While commendable, this may result in the double counting of the 
+same victim, both by the Member State where exploitation was detected and the 
+Member State of repatriation. Conversely, some Member States only report 
+residence permits provided to third country victims, thus resulting in the non-
+reporting of victims of EU nationality. 
+3.7.2   About traffickers 
+Of 30 Member States and Schengen Associated Countries, 20 provided statistics 
+on suspected traffickers of human beings for the year 2008, which totalled 2,628 
+detections.  
+The major challenge with the collection of data on the traffickers of human beings 
+is that there is no consensus on the definition of traffickers across the EU and the 
+Schengen Associated Countries. Member States reported on the numbers of 
+suspected traffickers detected, arrested traffickers, convicted traffickers and the 
+number of traffickers reported to the government.   
+The majority of suspected traffickers are from the Member States joining the EU 
+after 2004. However, there is only a slight difference between the numbers of 
+suspected traffickers from the new and from the EU-15 Member States (37% from 
+new and 35% from the old). This is most probably due to the fact that victims from 
+the Member States joining the EU after 2004 are often trafficked to the EU-15 
+Member States, while the victims from EU-15 Member States are mainly 
+trafficked domestically, within their country of origin. Only 27% of the suspected 
+ 
+ 33 
+ 
+ 
+ 34 
+traffickers are from third countries, while the number of victims from third 
+countries is twice as high (53%). 
+The vast majority of the suspected traffickers come from Europe (84%), and in 
+particular from the Member States with the highest numbers of reported victims of 
+trafficking, namely from Germany and Romania. The highest numbers of third 
+country traffickers detected by the Member States are Turkish nationals, followed 
+by Nigerian and Brazilian nationals.  
+Most suspected traffickers are involved in exploitation for prostitution of others 
+(51%), followed by slavery or practices similar to slavery (22%), and activities 
+associated with begging or other unlawful activities (12%). Forced labour or 
+services were only a small share of the exploitation practices (6%), but this figure 
+can also be somewhat distorted by a time lag in the prosecution of certain cases 
+in the Member States. 
+ 
+ 
+  
+ 
+ 
+35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+European Agency for the Management of Operational Cooperation 
+at the External Borders of the Member States of the European Union 
+ 
+ 
+ 
+ 
+Rondo ONZ 1 00-124 Warsaw 
+Poland 
 
-
-Most illegal migrants to the EU are from Middle Eastern and African
-countries. Greece now accounts for 75% of all detections of illegal border
-crossings in the EU. Illegal migrants who enter Greece illegally are
-increasingly reported transiting to other Member States via the Western
-Balkans or air routes using forged documents obtained in Greece. Following
-decreased departures from Libya and Western Africa, Turkey has now
-become the most important transit country for illegal migration to the EU.
-
-
-Reduced employment opportunities for illegal migrants, combined with
-strengthened controls at the borders have resulted in a higher risk of
-unfounded international protection applications being used to enter the EU,
-which inevitably inhibits the rapid provision of protection for the third country
-nationals with legitimate claims.
-
-
-Forged documents, particularly EU passports and ID cards, are frequently
-used by illegal migrants to enter to the EU. Forged documents are mostly
-used in association with other criminal activities or types of frauds, such as
-the abuse of social benefits. There is growing abuse of documentation by
-impostors. Unconfirmed identities undermine border controls and are a
-potential threat to the internal security of the EU, particularly if migrants are
-able to conceal a criminal or terrorist past.
-
-
-There is an increasing risk of the use of regular, legal entry channels to enter
-the EU, with intent to overstay. Overstaying is probably the most common
-technique for illegal migration to the EU, mostly through the air borders.
-
-
-There are concerns among the general public and policy makers about
-trafficking in human beings (THB) which is recognised as a form of modern
-slavery.
-
-
-Along both the Eastern land borders and the Western Balkan land borders,
-there are reports that border control authorities are confronted with cross
-border crime issues more frequently than illegal migration issues. On entry to
-the EU, the most common cross border crimes are the smuggling of excise
-goods, drugs or weapons, while on exit crimes are usually related to stolen
-assets
-
-1. Introduction
-
-This document constitutes an extract from the Annual Risk Analysis report
-for 2010. Three parts of the original report: the environmental scan, the
-outlook for 2011 and the recommendations for operational response have
-been removed. Furthermore, operationally sensitive details have been taken
-out.
-
-
-Frontex Annual Risk Analysis (ARA) 2010 has been developed to plan the
-coordination of operational activities at the external borders of the EU in 2011.
-The ARA combines an assessment of threats and vulnerabilities at the EU
-external borders, with an estimation of their impacts and consequences to enable
-the Agency to effectively balance and prioritise the allocation of resources against
-identified risks.
-
-
-Frontex operational activities aim to strengthen border security by ensuring the
-coordination of Member Statesï¿½ actions in the implementation of Community
-measures relating to the management of the external borders. The coordination
-of operational activities also contributes to better allocation of Member Statesï¿½
-resources and protection in the area of freedom, security and justice.
-
-
-The ARA 2010 concentrates on the current scope of Frontex operational
-activities, which is focused on illegal migration at the external borders of the EU
-and the Schengen Associated Countries. As recommended by the concept of
-Integrated Border Management, border management should also cover security
-threats present at the external borders. Hence, a full chapter is devoted to the
-phenomenon of trafficking in human beings (THB) with which Frontex was tasked,
-according to the EU Action Plan (2005/C 311/01) on best practices, standards
-and procedures for combating and preventing THB.
-
-Frontex Risk Analysis Unit would like to thank all FRAN members and in
-particular the staff in Member States for their efforts in providing data and
-information, as well as Europol which contributed to the ARA 2010, and
-colleagues at Frontex involved in the preparation of the report.
-
-
-
-
-7
-
-2. Methodology
-
-Data collection plan
-
-The backbone of the ARA 2010 is the Member Statesï¿½ monthly statistics provided
-within the framework of the Frontex Risk Analysis Network (FRAN). This regular
-data collection exercise was launched in September 2007 and refined in 2008.
-Thanks to the FRAN membersï¿½ efforts, a much larger statistical coverage was
-achieved in 2009 focussed on six key indicators on illegal migration: 1) detections
-of illegal border crossing, 2) refusals of entry, 3) detections of illegal stay, 4)
-asylum applications, 5) detections of facilitators, and 6) detections of forged
-documents.
-
-
-Member States were not addressed with specific questions for this assessment.
-Rather, Member Statesï¿½ bi-monthly analytical reports and incidents reports
-routinely collected through the FRAN, and Member States contributions to several
-Tailored Risk Analyses conducted in 2009 have all been important sources of
-information, especially in the analysis of routes and modi operandi. A substantial
-amount of information was provided through the analysis of the materials
-collected during Frontex coordinated joint operations.
-
-
-The chapter on trafficking in human beings (THB) was based on Member States
-statistics for 2008, collected for the Frontex THB project.
-
-
-Open sources of information were also effectively exploited, especially in
-identifying the main push and pull factors for illegal migration to the EU. These
-sources included but were not limited to reports issued by governmental
-agencies, international or non-governmental organisations, as well as official EU
-reports, such as the Commissionï¿½s reports on third countries, and main stream
-news agencies,
-
-
-In addition, Frontex, together with experts from Member Statesï¿½ analytical units,
-organised an annual analytical review to consolidate the risk analyses presented
-in the FRAN Quarterlies for 2009, as well as to gather knowledge on likely risks of
-illegal migration expected in 2010 and 2011 at the EU external borders.
-
-
-Data were collected by Frontex from the national border control authorities
-categorised by border type (land, air and sea) and from land borders categorised
-by the different border sections with neighbouring third countries.
-
-
-The data collected within FRAN is compiled and analysed on a quarterly basis.
-Priority is given to the use of the data for management purposes and to its rapid
-sharing among Member Statesï¿½ border control authorities. Member Statesï¿½ data
-that are processed by Frontex are not treated as official statistics, and thus may
-occasionally vary from data published officially by national authorities.
-
-
-During 2009, some FRAN Members made backdated updates to their 2008
-statistics. These updates have been accounted for in this document, and thus the
-data presented here sometimes differ from the data presented in the 2009 Annual
-Risk Assessment. Also of note, despite the entry of Switzerland into the
-Schengen area, data on its borders with Member States (Germany, France, Italy,
-Austria) have been removed from the 2008 data to enable direct comparison with
-the situation in 2009.
-
-
-EUROPOL contributed to the ARA 2010, by providing information on facilitated
-illegal migration and on trafficking in human beings.
-
-
-Quality of the available data
-
-Consistent with other law enforcement indicators, variation in administrative data
-related to border control depends on several factors. In this case, the number of
-detections of illegal border crossing and refusals of entry are both functions of the
-amount of effort spent detecting migrants and the flow of illegal migrants to the
-EU. For example, increased detections of illegal border crossing might be due to
-an actual increased flow of illegal migrants, or it may actually be an artefact of
-more resources made available to detect migrants. In exceptional cases, more
-available resources may produce an increase in reported detections while
-effectively masking an actual decrease in the flow of migrants, resulting from a
-strong deterrent effect.
-
-
-Conservative estimates of the number of illegal migrants within the EU vary
-between three and six million, according to the latest results of Clandestino, an
-EU sponsored project implemented by the ICMPD. However, other estimates
-indicate eight million illegal migrants, of which 80% are inside the Schengen area,
-half of which entered legally. However, there is currently no estimate of the
-annual flow of illegal migrants crossing the border illegally.
-
-
-Information on national level resources for border control authorities and their
-allocation is currently only partially known. These data are provided by the
-Member States themselves either within the Schengen evaluation mechanism or
-to the External Borders Fund. Without systematic and reliable information on
-
-
-resources allocated to border control and on estimates of illegal migration flow, it
-is not possible to assess the performance and impact of the border controls put in
-place, at the same time, analyses of the situation at the EU external borders are
-limited to descriptive statistics of the administrative data provided by Member
-States.
-
-
-As highlighted in the Schengen Catalogue, variation in regular passenger flow is
-an important factor to be taken into account in the allocation of border control
-resources. However, regular flows of passengers across the EU external borders
-are currently not recorded systematically. Data on the quantity of issued EU visas
-and their places of issue would improve the profile of third country passenger
-flows. However this information, collected within the Council Visa Working Party,
-is not yet available for risk analysis, and thus was not considered for this
-document. Similarly, data on readmissions are collected by CIREFI but results
-for 2009 were not yet available at the time of writing this report, and thus could
-not be analysed in relation to detected flows of illegal border crossing.
-
-
-3. Situation at the External Borders
-
-In 2009 there were decreases, compared to the situation in 2008, in most
-indicators used to monitor the situation of illegal migration at the EU external
-borders.
-
- 3.1       Detections of illegal border crossing
-
-In 2009, the Member States and Schengen Associated Countries reported a
-total of 106,200 detections of illegal border crossings at the sea and land
-borders of the EU. This represented a 33% decrease compared to 2008. The
-decrease is comprised of both a strong decrease reported from the sea
-borders (-23%), and land borders (-43%).
-
-
-The bilateral collaboration agreements with third countries of departure on the
-Central Mediterranean route (Italy with Libya) and the Western African route
-(which Spain signed with Senegal and Mauritania) had an impact on reducing
-departures of illegal migrants from Africa. The agreements were made at a
-time when the economic crisis decreased the labour demand in the EU, thus
-simultaneously reducing the pull factor. The synchronisation of these events
-probably explains why no displacement has so far been noticed from the
-Central Mediterranean and Western African routes to other illegal migration
-routes in the statistics for detections. However, intelligence suggests that the
-risk of displacement remains high, either with the emergence of new routes or
-the exploitation of existing ones by nationalities which used to be detected
-along the Central Mediterranean or the Western African routes.
-
-
-As a corollary to the sharp decreases registered in Italy and Spain, the
-number of detections of illegal border crossing in Greece rose from 50% of the
-total EU detections to 75% of the total. In 2009, the Greek land border
-sections with Albania and FYROM represented the largest share of the EU
-total, with 36,600 detections (34% of the EU total), followed by 22,000
-detections in the Aegean Sea with (21% of the EU total).
-
-
-There were 24,400 detections outside Greece, mainly along the Central
-Mediterranean route (11,000 detections) and the Western Mediterranean
-route (6,600 detections). Compared to 2008, the small increase in the
-Western Balkans in 2009 was due to the larger detections of Serbian
-nationals of Kosovo origins and Afghan nationals along the land border
-between Hungary and Serbia.
-
-
-Claimed nationalities
-
-
-In terms of nationality, Albanian nationals, with 40,500 detections representing
-38% of the EU total, continue to represent the largest share of detections. The
-detections of Albanian nationals are followed at a distance by Afghan
-nationals (14,500 detections, 14% of the total) and Somali nationals (9,100
-detections or 9% of the total).
-
-
-There was a general decreasing trend for most nationalities (Albania -8%,
-Afghanistan -24%, Somalia -21%). Detections of Iraqi nationals strongly
-decreased from 8,800 in 2008 to 4,100 in 2009 (-52%), a trend that is also
-shown for detections of illegal stay           (-38%) and applications for international
-protection (-43%).
-
-
-The most noticeable exception to the decreasing trend is for Palestinian
-nationals whose detections increased by 77% from 4,300 in 2008 to 7,600 in
-2009. However, false declarations of nationality, in this case by nationals of
-other Arab-speaking countries, may have inflated the numbers of Palestinian
-nationals.
-
-
-3.1.1 Eastern Mediterranean route
-
-
-The Eastern Mediterranean route is the route taken by illegal migrants transiting
-through Turkey and entering the EU through eastern Greece, southern Bulgaria
-or Cyprus. Turkey, due to its geographical position near the EU, is the main
-nexus point on this route. From Istanbul, illegal migrants may reach the Greek
-islands in the Aegean Sea, or cross the land borders to Greece or to Bulgaria.
-
-
-In 2009, illegal border crossing on the Eastern Mediterranean route totalled
-41,500, or 39% of all EU detections. Most of the detections were reported from
-the Aegean Sea, followed by detections along the land border between Turkey
-and Greece. The number of detections reported by Bulgaria and Cyprus were
-considerably lower.
-
-
-Three nationalities constitute 80% of the detections along the Eastern
-Mediterranean route: Afghan, Palestinian and Somali nationals. Over the past two
-years, these nationalities have consistently been the most often detected.
-
-
-A seasonal effect is more apparent in the number of the detections of Asian
-nationals than for numbers of African nationals. One possible explanation is that
-Asian nationals reach Turkey overland and are thus more sensitive to inclement
-winter weather conditions, while African nationals arrive in a steady flow to Turkey
-by air, taking advantage of the easily available Turkish visas and cheap flights
-from Nigeria.
-
-
-False declarations of nationality is assumed to be widespread among East
-African nationals arriving in Greece, in particular among claimed Somalis who
-might actually be from Western Africa. This would explain why the number of
-detections of Somali nationals does not vary with the security situation in
-Somalia.
-
-
-Source: FRAN data received as of 15 February 2010
-
-
-The number of detections of nationals from Afghanistan and Iraq decreased by
-50% from 26,700 in 2008 to 13,300 in 2009. One possible explanation for this
-decrease is the reduced employment opportunities in the UK (the main
-destination country), combined with stricter law enforcement measures in Greece
-and France, the main transit countries. Another possible explanation is a
-deterrent effect of return operations from the UK to Afghanistan.
-
-
-The 79% increase in detections of Palestinian nationals, from 4,200 in 2008 to
-7,500 in 2009 is more difficult to interpret. Palestinian nationals are the first or
-second most commonly detected nationality in Greece, Bulgaria and Cyprus. The
-situation in the West Bank and the Gaza strip continues to be unstable through
-2008 and 2009, but at the EU level, 59% fewer Palestinians applied for asylum in
-2008 (2,200) than in 2009 (900). Based on information gathered during Frontex
-joint operations in 2009, there would be a large number of false declarations of
-nationality among claimed Palestinian nationals, in particular by nationals from
-Maghreb (Algeria, Morocco) and Middle East countries (Iraq). The reason for
-these false declarations is currently unclear. Perhaps the most likely reason is
-that they wish to avoid return or at least to reduce the length of their stay in the
-detention centres, but these declarations are not linked with applications for
-international protection.
-
-
-Pervasive effects of illegal border crossing from the Eastern Mediterranean route
-can be found in France (Northern region), Nordic countries, Germany, Belgium
-and The Netherlands which have reported large number of migrants that illegally
-entered the EU in Greece. At the end of 2009, after the Greek authorities stepped
-
-                                                                                                                            
-up measures on exit at their airports, the number of third country nationals
-detected with forged or falsified documents on flights to other Member States
-averaged about 350 cases per week.
-
-
-3.1.2 Circular illegal migration from Albania to Greece
-
-
-In 2008, detections of illegal border crossing between Albania and Greece and
-between FYROM and Albania, totalled 40,800 and represented almost 40% of the
-EU total. More than 90% of the illegal migrants were Albanian nationals.
-
-
-In Greece, most Albanian nationals detected crossing the border illegally or
-staying illegally are quickly returned under a bilateral police agreement. Persons
-returned to Albania are finger printed by the Albanian police, a procedure that
-enables authorities to distinguish between cases and persons. Between 2008 and
-2009, there was a decrease of 10% in the number of persons actually readmitted
-by Greece. This decrease is attributed to the decrease in employment
-opportunities in the agricultural and tourist sectors in Greece where Albanian
-nationals are most often illegally employed as seasonal workers.
-
-
-Despite strengthened measures, border controls appear to have little effect on the
-circular illegal migration from Albanian nationals to Greece. The lack of effect of
-border controls might be attributed to the ease with which Albanian migrants
-repeat their attempts after detections and the impunity of their employers in
-Greece. These are two strong pull factors that cannot be addressed only by
-measures at the borders.
-
-
-Only a small proportion of the Albanian illegal migrants intend to reach Member
-States other than Greece. Their impact is thus mostly limited to seasonal work in
-Greece.
-
-
-
-3.1.3 Central Mediterranean route
-
-
-The Central Mediterranean route refers to illegal
-migration from northern Africa to Italy and to Malta. For
-the past two years, Libya has been a nexus point where
-migrants from the Horn of Africa and Western African
-routes and a small proportion of Asian nationals met
-before embarking.
-
-Picture 1: An boat overloaded with illegal migrants in the southern Mediterranean
-
-
-Since the signing of a bilateral agreement with Libya,
-joint patrols by Libya and Italy have had a clear and
-measurable deterrent effect, with 3,200 detections in the
-seven months after the joint patrols (June to December),                        
-compared to 7,200 detections in the five months before
-the joint patrols (January to May), and almost 40,000 detections in the whole of
-2008.
-
-
-3.1.4 Western African route
-
-
-The Western African route is primarily through Western African countries to Spain
-via the Canary Islands. The main embarkation points are in Senegal and
-Mauritania and the main countries of origin are Mali, Mauritania, Guinea Conakry
-and Senegal. Other African nationals have also been reported, and occasionally
-migrants from Asia.
-
-This route is now less favoured since the Spanish collaboration agreements with
-Senegal and Mauritania. The Frontex coordinated Joint Operation Hera plays a
-major role in maintaining effective surveillance in the area.
-
-
-3.1.5 Western African route
-
-
-The Western Mediterranean route includes the sea route from Northern Africa to
-the Iberian Peninsula, and the land route through Ceuta and Melilla. It is mostly
-used by Northern African nationals (Algerian and Moroccan) travelling to Spain,
-France and Italy.
-
-
-Maritime detections between Northern Africa and Spain are rising, with increasing
-detections of Algerian and to a lesser extent Sub Saharan nationals.
-
-
-Moroccan nationals are also regularly detected on this route. The lack of
-employment opportunities for the growing population of young people in Morocco
-continues to increase the incentives of migrating to the EU. The Spanish
-authorities recently reported an increasing number of attempts by Moroccan
-minors to get on the ferry link between Tanger and Spain. These cases do not
-seem connected with criminal networks; rather individual attempts are driven by
-poor employment prospects in Morocco.
-
-
-3.1.6 Western Balkan route
-
-
-The Western Balkan route describes illegal migration to the EU from the Western
-Balkan countries of Croatia, Serbia, Kosovo, Bosnia and Herzegovina, Albania,
-Montenegro, and the former Yugoslav Republic of Macedonia.          It also includes
-the transit of illegal migrants through the Western Balkans, as an outlet from the
-Eastern Mediterranean route. Illegal migration of Albanian nationals to Greece is
-treated separately under the section ï¿½3.1.2 circular illegal migration from Albania
-to Greeceï¿½.
-
-
-Along the Western Balkan route, the most commonly detected nationality for
-illegal border crossing was from Kosovo, particularly along the land border
-between Serbia and Hungary. Most of the detections were made along the green
-borders, and few were detected using forged documents or during clandestine
-entry through the Border Control Point (BCP), e.g. hiding in vehicles. Serbians of
-Kosovo origin were more commonly refused at the land border with Hungary and
-Slovenia than at the air borders of the EU, confirming that their preferred route to
-the EU is the land route. Based on statistics for illegal stay, their preferred
-destinations are Germany, Sweden, Belgium and Austria, together representing
-65% of the detections of Serbian nationals.
-
-In 2009, a large number of Serbians of Kosovo origin claimed asylum in Hungary
-after being detected crossing the border illegally. Most of them soon absconded
-from the asylum centre to continue their travel through the EU.
-
-
-In 2009, there was increasing evidence that the Western Balkan was used as
-transit region by Afghan nationals who had entered Greece illegally from Turkey
-and then travelled in the EU, mostly towards the UK. This increase in the Western
-Balkan route is consistent with the 2008 increase of Afghan nationals detected
-illegally crossing the border from Turkey to Greece, combined with stricter alien
-laws in Greece and controls on regular ferry links between Greece and Italy.
-
-
-Most Afghan nationals were detected at the green border between Serbia and
-Hungary. Their journey was mostly reported to be comprised of three parts: the
-first part was from Greece to the green border between Serbia and Hungary, the
-second part was the crossing of the green border without the presence of
-facilitators, and finally the third part was meeting with other facilitators for the last
-leg of the journey within the EU.
-
-
-Several recent investigations conducted by Member States or by Western Balkan
-countries indicated that illegal migration in the Western Balkans is not limited to
-illegal crossing of the green border, but also includes clandestine entry by
-concealment in trucks. Following the strengthening of surveillance along green
-borders, facilitators are likely to switch to the concealment of illegal migrants,
-hence putting lives at risk in confined vehicle compartments
-
-
-Illegal migration via the Western Balkan route should be considered in the context
-of a recent visa liberalisation policy granted to citizens of EU candidate countries
-(Serbia, Croatia, Montenegro and the Former Yugoslav Republic of Macedonia).
-As a result of this policy, a large proportion of the population can now travel freely
-to the EU, thus now restricting the risk of illegal border crossing only to that
-proportion that donï¿½t have access to the new biometric passports.              However
-nationals from Bosnia and Herzegovina, Albania and people living in Kosovo
-(who do not have free access to the EU) might start to use forged Western
-Balkan travel documents.
-
-
-The Western Balkans is also used for smuggling high taxed goods and drugs to
-the EU. For many years Western Balkan countries have been used as one of the
-main routes for heroin trafficking from Afghanistan, via Turkey and onward to the
-EU. In addition, long periods of war in the Western Balkan region has resulted in
-large stocks of weapons and ordnance which are now readily available for
-criminals. Hence, the smuggling of small arms, ammunition and explosives is
-also a frequent crime in the region.
-
-Another important threat for internal security within the EU is the ease with which
-criminals are able to smuggle stolen vehicles from the EU to the Western
-Balkans. According to information from Austrian experts deployed during the Joint
-Operation Focal Point, BCPs on the border between Hungary and Serbia are
-frequently used to smuggle stolen vehicles from European to Western Balkan
-countries.
-
-
-3.1.7 Eastern European land borders
-
-
-This section summarises the detection of illegal migration along the EU eastern
-land borders with the Russian Federation, Belarus, Ukraine and Moldova. The
-number of detections of illegal border crossing along the Eastern land borders of
-the EU was low in 2008 relative to the total number of detections, and was even
-lower in 2009 with 1,335 detections, representing 1% of the EU total. The low
-number of detections can partly be explained by the strong border controls in the
-Russian Federation and Belarus. For example, in 2009 the Russian Federation
-authorities reported the detection of more than 200 Afghan nationals attempting
-to cross illegally to the EU along the border with Finland. In this case, most of the
-Afghan nationals reside in Commonwealth Independent States (CIS) and do not
-come directly from Afghanistan. The low number of detections along the border
-with Belarus might be attributed to the fence set up by the Belarusian authorities
-along their border with the EU.
-
-
-Ukraine, and in particular the capital city Kiev, is the main nexus point for illegal
-migration along the Eastern land border, with illegal migrants arriving via the
-Russian Federation and then onward by air or overland routes to the EU. The
-number of passengers at the border between Poland and Ukraine has increased
-after Polandï¿½s entry into the Schengen area; this border section now registers the
-largest flow of third country nationals requiring visas, followed by the German air
-                1
-borders . Consequently there was an increase in refusals of entry of Ukrainian
-nationals who now rank first among the most commonly refused nationalities at
-the EU external borders.
-
-
-Between June and September 2009, the border between Belarus and Poland
-reported an exceptionally high number of Georgian nationals claiming asylum and
-then quickly absconding from the asylum centres to reach other Member States
-such as Germany, Austria and Belgium.
-
-
-Along the Eastern land borders, several Member States reported being
-confronted with cross border crimes more often than with illegal migration issues.
-Similar observations have been expressed by border control authorities in
-neighbouring third countries. In particular, the issue of smuggling of excise goods
-has been reported has a high threat along the borders between the Russian
-Federation and Poland, Lithuania and Latvia.
-
-
-3.1.8 Detections of clandestine entry at BCPs
-
-
-In addition to the detections of illegal border crossing made along the
-green border, Member States reported 1,600 detections of clandestine
-entry through BCPs, mostly illegal migrants concealed in confined
-compartments     of   vehicles.   This     number   is   probably   slightly
-conservative as some Member States such as Greece do not
-distinguish between detections at the green border and at BCPs.
-
-
-3.1.9 False declaration of nationality
-
-
-According to intelligence and operational information the top three most
-commonly false claimed countries of origin are Somalia, Palestinian
-territories and Afghanistan. Migrants from that have cultural or linguistic
-links with these false countries of origin (Maghreb, the Middle East,
-
-
-Iran, Pakistan, Central Asia and East Africa) are most likely to engage
-in the practice of nationality swapping.
-
-
-3.2       Facilitators
-
-In 2009, there were 9,200 detections of facilitators, compared with 9,900
-detections in 2008. The top three Member States reporting detections of
-facilitators were the same three Member States that reported the highest number
-of detections for illegal border crossing, namely Italy, Spain and Greece.
-
-
-The vast majority of facilitators were EU nationals. A total of 20 Member States
-reported their own nationals among the top five nationalities for facilitators, of
-which 13 Member States reported their own nationals as ranking first. This clearly
-shows the segmentation of the illegal migration networks, whereby facilitators
-from one country organise the operations in their own countries, and for the most
-part do not accompany the illegal migrants across the borders.
-
-
-3.3      Refusals of entry
-
-Compared to 2008, refusals of entry in 2009 remained fairly stable, only showing
-a small decrease of 7% to 113,000. Refusals of entry were split almost equally
-between refusals at the air borders (49%) and at the land border (47%). Only few
-refusals of entry were reported from the sea borders due to the low number of
-regular passengers.
-
-
-There were two notable trends: 1) a continued decrease in the number of refusals
-of entry at the air borders due to widespread reductions in air traffic, and 2) a
-sharp increase in the number of land border refusals of entry in August 2009,
-resulting from large numbers of refusals of entry at the land borders between
-Poland and Belarus, and Slovenia and Croatia. The refusals in Poland were of
-Georgian nationals who later claimed for international protection and then
-absconded from the centres to stay illegally in the EU, and the refusals in
-Slovenia were of Western Balkans circular migrant workers travelling to Italy.
-
-
-
-Excluding the UK and Ireland which did not participate, the European Councilï¿½s
-one week data collection exercise implemented at the beginning of September
-2009 which focussed on the entry/exit system, showed that about 2 million third
-country nationals (requiring and not requiring visas) and 5 million EU nationals
-crossed the external EU border in a week. This extrapolates to an annual figure of
-about 100 million entries for third country passengers and about 260 million
-entries of EU nationals. Thus, refusals of entry of third country nationals
-represented only 0.1% of the third country passenger flow.
-
-
-Most refusals of entry are on the grounds of either lacking valid visas or residence
-permits (38%) or documentation justifying the purpose and conditions of stay
-(31%). In 2009, there was a total of 29,700 refusals of entry on the grounds of
-lacking appropriate documentation justifying the purpose of stay. This directly
-reduced the number of overstaying in the EU, which is probably the main path for
-illegal migration to the EU.
-
-
-
-In terms of nationalities, Ukrainian nationals were most commonly refused entry
-at the border between Poland and Ukraine. The three Polish land border sections
-constitute the busiest flow in the EU of third country passengers requiring visas
-(about 120,000 weekly entries of third country passengers requiring visa).
-
-
-
-Spain also reported refusals of entry in Ceuta and Melilla; a decrease of 61%
-from 492,700 in 2008 to 193,100 in 2009, due to stricter controls on exit by
-Moroccan border authorities, as a direct consequence of a bilateral agreement
-with Spain.
-
-3.4       Applications for international protection
-
-The number of applications for international protection in 2009 totalled 219,800, a
-figure comparable to 2008 (-2%). However, this figure excludes applications
-made in inland France which may have been among the highest of Member
-States.   The EU total for 2009 was about half that of the annual peak in
-2000/2002 (420,000 asylum seekers,) and about a third of the Bosnian-
-Hercegovina war peak in 1992.
-
-
-The annual number of applications should be interpreted with respect to the
-average rejection rate which was of 70% at the EU level when considering the
-total of all types of international protections. The rejection rates vary widely
-between Member States but the high EU average supports the fact that
-application for international protection is one of the main paths for illegal migration
-within the EU, with many undocumented asylum applicants deciding to stay
-illegally in the EU once their application has been rejected.
-
-
-Asylum flows are unpredictable as they depend on fluctuations in large scale geo-
-political situations. There is no guarantee that a Member State with currently low
-numbers of asylum applications will not experience pressures in the short term.
-
-
-Reduced     employment      opportunities   for   illegal   migrants,   combined   with
-strengthened controls at the borders have resulted in a higher risk of unfounded
-international protection applications being used to enter the EU, which inevitably
-inhibits the rapid provision of protection for those third country nationals with
-legitimate claims.
-
-
-Some signs of this can already been seen in 2009, with a massive influx of
-Georgian nationals applying for asylum in Poland and then quickly absconding
-from the asylum centre and soon detected staying illegally in Germany, Austria,
-Belgium and other Member States. A similar situation occurred at the border
-between Serbia and Hungary, with many passengers from Kosovo applying for
-asylum and then quickly disappearing from the asylum centre.
-
-
-The number of applications from Iraqi nationals decreased by 43% from 31,000 in
-2008 to 17,000 in 2009. This decrease was detectable in almost every Member
-State. In addition, compared to 2008, Iraqi nationals were detected 49% less
-frequently crossing the EU external border illegally and were detected 42% less
-frequently staying illegally. Overall these figures indicate a general decline in
-Iraqi illegal migration at the EU level.
-
-
-In contrast, the number of Afghan nationals increased by 82% from 13,600
-applications in 2008 to 24,600 applications in 2009, an increase that is attributed
-to the secondary movement of Afghan nationals from Greece to other EU
-Member States. At the EU level, Afghan nationals are now the most common
-nationality applying for international protection.
-
-
-3.5      Illegal stay
-
-FRAN members reported a total of 352,800 detections of persons staying illegally
-in the EU in 2009, down 21% compared to 2008. The largest decreases were
-reported by Spain and France
-
-
-In Spain, there was a sharp drop recorded between January and February 2009,
-which is interpreted as a change in law enforcement activity, whereas the general
-decreasing trends recorded prior and subsequent to the drop are due to
-decreasing detections of illegal migrants from Latin America.
-
-
-The decrease in France is mostly due to lower detections of Iraqi and Eritrean
-nationals, but also to lower detections of many other nationalities. This could be
-explained for in part by the dismantlement of the camps of illegal migrants in
-northern France that have dispersed migrants into other parts of the country and
-in other Member States, and also by the end of the border controls with
-Switzerland where many migrants staying illegally in France used to be detected
-on exit. Thus, in this case the decreasing detections do not necessarily reflect a
-actual decrease in the number of illegal migrants.
-
-
-At the EU level, the most noticeable trend is the decrease in detections of Iraqi,
-Eritrean, Moroccan and Indian nationals in most Member States. In contrast,
-there was an increase in detections of Afghan nationals, most of them reported
-arriving from Greece, as well as an increase in Vietnamese nationals.
-
-
-The three main paths for illegal stay in the EU are 1) illegal border crossing, 2)
-overstay the legal period of stay and 3) loss of status related to international
-protection (either rejection of application or non-renewal of status). However,
-there is an intelligence gap on the relative importance of these paths.
-
-
-3.6      Detection of forged documents to enter the EU
-
-A total of 8,200 detections of forged documents used to enter the EU were
-detected in 2009. Most of the detections (72%) were reported at the air borders.
-The most common nationality detected using forged documents was Nigerian,
-whereas the most commonly reported country of origin of the forged documents
-was France.
-
-
-
-The detections of forged documents is small in
-comparison to the flow of passengers, which was
-estimated at about 380 millions entries in 2009,
-excluding the UK and Ireland. This low level of detection
-might be due the presence of fewer forged documents in
-response to increased security features on legitimate
-travel documents. However, it might also be due to
-ineffective detection of forged
-travel documents there is a growing risk of the
-use of impostor techniques
-
-There are increasing numbers of reports to suggest that the EU is becoming a
-hub for illegal migration to Canada. The Netherlands have reported increased
-detections of forged documents on passengers on transit to Canada. The
-Canadian authorities themselves have reported that most of their detections of
-illegal migrants using forged documents at the air borders are connected with
-passengers transiting through the EU.
-
-
-3.7       Trafficking in human beings
-
-Almost half of the victims of trafficking identified in 2009 were EU nationals, and
-of these most were nationals of the Member States that joined the EU after 2004,
-detected in EU-15 Member States. Sexual exploitation was the main purpose of
-trafficking in human beings, especially in the case of women and minors. A
-significant proportion suspected traffickers of human beings were EU nationals
-
-The role of Frontex in the field of combating trafficking in human beings (THB)
-focuses on prevention. This is to be achieved by 1) increasing situational
-awareness and reaction capability of Member State border control authorities, 2)
-working closely with Europol, Interpol, Member State and Third Country law
-enforcement authorities to ensure that intelligence and intelligence from THB
-related investigations is fully taken into account when profiling potential victims
-and their traffickers, and 3) planning Frontex coordinated joint operations.
-
-3.7.1 About the victims
-
-Of 30 Member States and Schengen Associated Countries, 22 provided statistics
-on victims of trafficking for the year 2008, and a total of 4,371 victims of trafficking
-were identified.
-
-
-The major challenge related to the number of reported victims of trafficking
-remains the lack of a consensus on the definition of victims of trafficking.
-Differences in definitions may result in double counts of victims originating from
-one Member State and being trafficked to another Member State. The numbers
-reported are often based on residence permits given to victims, assisted victims
-of trafficking, victims in reception centres or victims in cases under investigation.
-The actual number of undetected victims is unknown, but likely to be much
-higher.
-
-
-Spain reported the highest number of victims of trafficking, followed closely by the
-Netherlands. Across the Member States, around 90% of the identified victims are
-female and almost 10% are minors. In other countries, such as the UK and
-Romania, males and minors are more highly represented, for example Romania
-reported more than 50% of the identified victims as minors.
-
-
-It is important to emphasize that the Members States reporting the highest
-numbers of victims of trafficking are not necessarily considered as the Member
-States with the largest problems of THB. This is because the Member States with
-the highest numbers of reported victims may simply have the best mechanisms
-for identifying the victims.
-
-
-The nationalities of the victims of trafficking are almost equally split between
-nationalities of the Member States (48%) and third countries (52%). Victims of
-Romanian nationality are by far the most exploited group within the Member
-States, followed by the Nigerians and the Dutch.
-
-
-In terms of this report, victims of domestic trafficking within the EU are defined as
-ï¿½persons with a Member State nationality reported by their own or another
-Member State as victims of trafficking.ï¿½ The victims of domestic trafficking are
-mostly reported by the EU-15 Member States. Germany, the Netherlands and
-Belgium reported the highest numbers of domestic victims of trafficking, totalling
-jointly 84% of all domestic victims across the Member States. These three
-countries also reported 98% of the trafficking victims who were nationals of EU-15
-Member States. Victims of EU-15 Member State nationalities are mainly reported
-by the EU-15 Member States. Furthermore, domestic victims with EU-15 Member
-State nationalities represent 36% of the total number of victims of domestic
-trafficking within the EU.
-
-
-Minors that are victims of trafficking are mainly identified as victims of domestic
-trafficking (81%), and were all nationals of Member States joining the EU after
-2004. Of all the minors that were victims of domestic trafficking, 82% came from
-Romania. Also the male victims of trafficking are mainly identified as victims of
-domestic trafficking (66%), and were all nationals of Member States joining the
-EU after 2004. Of all male domestic victims of trafficking, 54% were of Romanian
-nationality.
-
-
-As many as 84% of identified victims of trafficking are meant for prostitution
-purposes or other forms of sexual exploitation. Most of the female victims of
-trafficking are reported for exploitation in this category (92%), as well as minors
-(84%). In 2008, forced labour represented 14% of all cases of trafficking reported
-by the Member States. Male victims of trafficking are the largest group in this
-category (68%), with 94% of all male victims being exploited for labour
-exploitation.
-
-
-Some Member States also provide assistance to victims upon return to their
-home country. While commendable, this may result in the double counting of the
-same victim, both by the Member State where exploitation was detected and the
-Member State of repatriation. Conversely, some Member States only report
-residence permits provided to third country victims, thus resulting in the non-
-reporting of victims of EU nationality.
-
-
-3.7.2 About traffickers
-
-
-Of 30 Member States and Schengen Associated Countries, 20 provided statistics
-on suspected traffickers of human beings for the year 2008, which totalled 2,628
-detections.
-
-
-The major challenge with the collection of data on the traffickers of human beings
-is that there is no consensus on the definition of traffickers across the EU and the
-Schengen Associated Countries. Member States reported on the numbers of
-suspected traffickers detected, arrested traffickers, convicted traffickers and the
-number of traffickers reported to the government.
-
-
-The majority of suspected traffickers are from the Member States joining the EU
-after 2004. However, there is only a slight difference between the numbers of
-suspected traffickers from the new and from the EU-15 Member States (37% from
-new and 35% from the old). This is most probably due to the fact that victims from
-the Member States joining the EU after 2004 are often trafficked to the EU-15
-Member States, while the victims from EU-15 Member States are mainly
-trafficked domestically, within their country of origin. Only 27% of the suspected
-
-
-traffickers are from third countries, while the number of victims from third
-countries is twice as high (53%).
-
-
-The vast majority of the suspected traffickers come from Europe (84%), and in
-particular from the Member States with the highest numbers of reported victims of
-trafficking, namely from Germany and Romania. The highest numbers of third
-country traffickers detected by the Member States are Turkish nationals, followed
-by Nigerian and Brazilian nationals.
-
-
-Most suspected traffickers are involved in exploitation for prostitution of others
-(51%), followed by slavery or practices similar to slavery (22%), and activities
-associated with begging or other unlawful activities (12%). Forced labour or
-services were only a small share of the exploitation practices (6%), but this figure
-can also be somewhat distorted by a time lag in the prosecution of certain cases
-in the Member States.
-
-
-European Agency for the Management of Operational Cooperation
-at the External Borders of the Member States of the European Union

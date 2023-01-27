@@ -6,7 +6,7 @@ library(readtext)
 get.all.pdf <- function(){
   liste <- list.files("Data/", ".pdf", full.names = TRUE)
   
-  name <- paste0("MyData/ara_",
+  name <- paste0("MyData/to_clean/ara_",
                 str_extract(liste, "\\d{4}"),
                 ".txt")
   
@@ -15,8 +15,3 @@ get.all.pdf <- function(){
   map2(text, name, writeLines)
   
 }
-
-get.all.pdf()
-
-
-readtext("MyData/*.txt")
