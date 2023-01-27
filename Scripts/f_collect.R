@@ -15,3 +15,5 @@ get.all.pdf <- function(){
   map2(text, name, writeLines)
   
 }
+
+get.all.pdf()
