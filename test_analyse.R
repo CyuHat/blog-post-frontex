@@ -26,10 +26,38 @@ text <-
                         str_remove(text, "^.+(?=executive\\ssummary(?!\\s+\\#))"),
                         str_remove(text, "^.+(?=\\d\\.\\s+summary(?!\\s+\\#))")),
          text = if_else(year < 2022,
-                        str_remove(text, "\\d{1,2}\\s+statistical\\sannex.+$"),
-                        str_remove(text, "annex\\s+\\-\\s+methodological\\snote.+$"))
-  )
+                        str_remove(text, "\\d{1,2}(\\.)?\\s+statistical\\sannex.+$"),
+                        str_remove(text, "annex\\s+\\-\\s+methodological\\snote.+$")),
+         text = str_replace_all(text, "(bor)\\s(ders?)", "\\1\\2"),
+         text = str_replace_all(text, "([a-z]{2,})\\s(ing)", "\\1\\2"),
+         text = str_replace_all(text, "([a-z]{4,})\\s(ities?|ment)", "\\1\\2"),
+         text = str_replace_all(text, "(ac)\\s([a-z]{4,})", "\\1\\2"),
+         text = str_replace_all(text, "(indica|fac|facilita)\\s(tors?)", "\\1\\2"),
+         text = str_replace_all(text, "(re)\\s(ported)", "\\1\\2"),
+         text = str_replace_all(text, "([a-z]{2,})(frontex)?\\s(tions?)", "\\1\\3"),
+         text = str_replace_all(text, "(sit)\\s(uation)", "\\1\\2"),
+         text = str_replace_all(text, "(mem|num)\\s(bers?)", "\\1\\2"),
+         text = str_replace_all(text, "(pos)\\s(sible)", "\\1\\2"),
+         text = str_replace_all(text, "(pas)\\s(sengers)", "\\1\\2"),
+         text = str_replace_all(text, "(mo)\\s(rocco)", "\\1\\2"),
+         text = str_replace_all(text, "(pub)\\s(lic|lished)", "\\1\\2"),
+         text = str_replace_all(text, "(infec)\\s(tious)", "\\1\\2"),
+         text = str_replace_all(text, "(indi)\\s(cators?|cating|vidual|cates?)", "\\1\\2"),
+         text = str_replace_all(text, "(mi)\\s(frontex\\s)?(grants?|gration|gratory)", "\\1\\3"),
+         text = str_replace_all(text, "(de)(frontex)?\\s(tections?)", "\\1\\3"),
+         text = str_replace_all(text, "(secu)\\s(rity)", "\\1\\2"),
+         text = str_replace_all(text, "(schen)\\s(gen)", "\\1\\2"),
+         text = str_replace_all(text, "(exter)\\s(nal)", "\\1\\2"),
+         text = str_replace_all(text, "(af)\\s(ricans?)", "\\1\\2"),
+         text = str_replace_all(text, "(consid|recov)\\s(ered)", "\\1\\2"),
+         text = str_replace_all(text, "(differ|consist)\\s(ent)", "\\1\\2"),
+         text = str_remove_all(text, "aa|tur|n\\.a|grc|ju"),
+         text = str_remove_all(text, "n\\sm\\sar\\sm\\say\\sju\\sl\\sse\\sp\\sn\\sov"),
+         text = str_remove_all(text, "fig\\.?\\s+\\d{1,2}")
+  ) %>% 
+  select(doc_id, year, text)
 
+# Rapid----
 save(text, file = "MyData/text.Rda")
 
 corp <- corpus(text)
@@ -63,6 +91,24 @@ tok3 <-
   filter(!(words %in% stopwords("en", "stopwords-iso")))
 
 save(tok3, file = "MyData/tidytext_tokens.Rda")
+
+# test ----
+tok3 %>% 
+  group_by(doc_id) %>% 
+  count(words) %>% 
+  bind_tf_idf(words, doc_id, n) %>% 
+  slice_max(tf_idf, n = 10) %>% 
+  ggplot(aes(tf_idf, reorder_within(words, tf_idf, doc_id), fill = doc_id)) +
+  geom_col() +
+  facet_wrap(~doc_id, scales = "free") +
+  scale_y_reordered() +
+  theme(legend.position = "none")
+
+kwic(tok1, "\\bent\\b", valuetype = "regex")
+
+a <- c("mi grant", "mi grants", "mi gration", " mi frontex", "mi gratory", "mi frontex grant")
+
+str_replace(a, "(mi)\\s(frontex\\s)?(grants?|gration|gratory)", "\\1\\3")
 
 # Analyse----
 # Summary of all corpus
@@ -106,22 +152,23 @@ fviz_ca_row(res)
 fviz_ca_col(res)
 
 fviz_contrib(res, choice = "col", axes = 1, top = 10)
+fviz_contrib(res, choice = "col", axes = 2, top = 10)
 
 # Choisis 2015 / 2018 / 2022
 
-mon_dfm[c(4, 7, 11),] %>% 
+mon_dfm[c(3, 6, 10),] %>% 
   textplot_wordcloud(comparison = TRUE)
 
 # À ma manière----
-tok3 %>%
-  group_by(doc_id) %>% 
-  count(words) %>% 
-  slice_max(n, n=10) %>% 
-  ggplot(aes(n, reorder_within(words, n, doc_id), fill = doc_id)) +
-  geom_col() +
-  facet_wrap(~doc_id, scales = "free") +
-  scale_y_reordered() +
-  theme(legend.position = "none")
+# tok3 %>%
+#   group_by(doc_id) %>% 
+#   count(words) %>% 
+#   slice_max(n, n=10) %>% 
+#   ggplot(aes(n, reorder_within(words, n, doc_id), fill = doc_id)) +
+#   geom_col() +
+#   facet_wrap(~doc_id, scales = "free") +
+#   scale_y_reordered() +
+#   theme(legend.position = "none")
 
 tok3 %>% 
   group_by(doc_id) %>% 
@@ -133,6 +180,10 @@ tok3 %>%
   facet_wrap(~doc_id, scales = "free") +
   scale_y_reordered() +
   theme(legend.position = "none")
+
+kwic(tok1, "\\bment\\b", valuetype = "regex")
+
+
 
 tok3 %>% 
   filter(str_detect(words, "human")) %>% 
