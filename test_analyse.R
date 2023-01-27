@@ -1,17 +1,34 @@
 # Librairies----
 library(readtext)
+library(dplyr)
+library(tidytext)
+library(stringr)
+library(ggplot2)
 library(quanteda)
 library(quanteda.textplots)
 library(quanteda.textstats)
 library(quanteda.textmodels)
 library(factoextra)
 
-
 # Données----
-text <- 
-  readtext("MyData/clean/*.txt") %>% 
-  tibble::tibble() %>% 
-  slice(-1:-2)
+text <-
+  readtext("MyData/to_clean/*.txt") %>% 
+  tibble() %>% 
+  slice(-1:-3) %>%
+  mutate(year = as.numeric(str_extract(doc_id, "\\d{4}")),
+         text = str_to_lower(text),
+         text = str_replace_all(text, "\\s+", " "),
+         text = str_replace_all(text, "([A-Za-z]+)\\-\\s", "\\1"),
+         text = str_remove_all(text, "\xad"),
+         text = str_remove_all(text, "(annual\\s)?risk\\sanalysis(\\s(for|of))?\\s\\d{4}"),
+         text = str_remove_all(text, "\\d+\\sof\\s\\d+"),
+         text = if_else(year %in% c(2013:2015, 2022),
+                        str_remove(text, "^.+(?=executive\\ssummary(?!\\s+\\#))"),
+                        str_remove(text, "^.+(?=\\d\\.\\s+summary(?!\\s+\\#))")),
+         text = if_else(year < 2022,
+                        str_remove(text, "\\d{1,2}\\s+statistical\\sannex.+$"),
+                        str_remove(text, "annex\\s+\\-\\s+methodological\\snote.+$"))
+  )
 
 save(text, file = "MyData/text.Rda")
 
@@ -36,6 +53,16 @@ mon_dfm <-
   dfm_trim(min_termfreq = 50)
 
 save(mon_dfm, file = "MyData/dfm.Rda")
+
+tok3 <- 
+  text %>% 
+  mutate(text = str_remove_all(text, "\\d+|https?.*")) %>% 
+  unnest_tokens("words", text) %>%
+  mutate(doc_id = str_remove_all(doc_id, "\\.txt"),
+         year = str_extract(doc_id, "\\d{4}")) %>% 
+  filter(!(words %in% stopwords("en", "stopwords-iso")))
+
+save(tok3, file = "MyData/tidytext_tokens.Rda")
 
 # Analyse----
 # Summary of all corpus
@@ -86,21 +113,6 @@ mon_dfm[c(4, 7, 11),] %>%
   textplot_wordcloud(comparison = TRUE)
 
 # À ma manière----
-library(tidytext)
-library(stringr)
-library(dplyr)
-library(ggplot2)
-
-tok3 <- 
-  text %>% 
-  mutate(text = str_remove_all(text, "\\d+|https?.*")) %>% 
-  unnest_tokens("words", text) %>%
-  mutate(doc_id = str_remove_all(doc_id, "\\.txt"),
-         year = str_extract(doc_id, "\\d{4}")) %>% 
-  filter(!(words %in% stopwords("en", "stopwords-iso")))
-
-save(tok3, file = "MyData/tidytext_tokens.Rda")
-
 tok3 %>%
   group_by(doc_id) %>% 
   count(words) %>% 
