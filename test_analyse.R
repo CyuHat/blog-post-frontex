@@ -9,8 +9,9 @@ library(factoextra)
 
 # Données----
 text <- 
-  readtext("MyData/*.txt") %>% 
-  tibble::tibble()
+  readtext("MyData/clean/*.txt") %>% 
+  tibble::tibble() %>% 
+  slice(-1:-2)
 
 save(text, file = "MyData/text.Rda")
 
